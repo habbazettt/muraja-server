@@ -1,0 +1,13 @@
+services:
+  muraja_backend:
+    build: .
+    container_name: muraja_backend
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    networks:
+      - muraja_network
+
+networks:
+  muraja_network:
