@@ -9,11 +9,6 @@ import (
 	"gorm.io/gorm"
 )
 
-const (
-	RoleUser  = "user"
-	RoleAdmin = "admin"
-)
-
 type AuthService struct {
 	DB *gorm.DB
 }
@@ -103,7 +98,7 @@ func (s *AuthService) Login(c *fiber.Ctx) error {
 			ID:                   user.ID,
 			Nama:                 user.Nama,
 			Email:                user.Email,
-			UserType:             RoleUser,
+			UserType:             user.UserType,
 			IsDataMurojaahFilled: user.IsDataMurojaahFilled,
 		},
 	})

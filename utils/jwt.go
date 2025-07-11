@@ -8,14 +8,12 @@ import (
 	"github.com/golang-jwt/jwt/v5"
 )
 
-// Claims adalah struktur yang akan disimpan dalam token JWT
 type Claims struct {
 	ID   uint   `json:"id"`
 	Role string `json:"role"`
 	jwt.RegisteredClaims
 }
 
-// GenerateToken membuat token JWT untuk user
 func GenerateToken(userID uint, role string) (string, error) {
 	secret := os.Getenv("JWT_SECRET")
 	if secret == "" {
@@ -34,7 +32,6 @@ func GenerateToken(userID uint, role string) (string, error) {
 	return token.SignedString([]byte(secret))
 }
 
-// ParseToken memverifikasi token JWT dan mengembalikan claims
 func ParseToken(tokenString string) (*Claims, error) {
 	secret := os.Getenv("JWT_SECRET")
 	if secret == "" {
@@ -57,7 +54,6 @@ func ParseToken(tokenString string) (*Claims, error) {
 	return claims, nil
 }
 
-// VerifyToken memverifikasi token JWT dan mengembalikan claims jika valid
 func VerifyToken(tokenString string) (*Claims, error) {
 	claims, err := ParseToken(tokenString)
 	if err != nil {

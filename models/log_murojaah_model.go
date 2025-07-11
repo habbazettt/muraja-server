@@ -11,8 +11,8 @@ const (
 
 type LogHarian struct {
 	ID                  uint      `gorm:"primaryKey" json:"id"`
-	UserID              uint      `gorm:"not null" json:"user_id"`
-	Tanggal             time.Time `gorm:"type:date;not null;uniqueIndex:idx_mahasantri_tanggal" json:"tanggal"`
+	UserID              uint      `gorm:"not null;uniqueIndex:idx_user_tanggal" json:"user_id"`
+	Tanggal             time.Time `gorm:"type:date;not null;uniqueIndex:idx_user_tanggal" json:"tanggal"`
 	TotalTargetHalaman  int       `gorm:"default:0" json:"total_target_halaman"`
 	TotalSelesaiHalaman int       `gorm:"default:0" json:"total_selesai_halaman"`
 

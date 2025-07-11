@@ -55,6 +55,9 @@ func main() {
 
 	routes.SetupAuthRoutes(app, db)
 	routes.SetupUserRoutes(app, db)
+	routes.SetupJadwalPersonalRoutes(app, db)
+	routes.SetupRekomendasiRoutes(app, db)
+	routes.SetupLogMurojaahRoutes(app, db)
 
 	port := os.Getenv("PORT")
 	if port == "" {
