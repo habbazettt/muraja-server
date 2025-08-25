@@ -28,7 +28,8 @@ func ConnectDB() *gorm.DB {
 	)
 
 	db, err := gorm.Open(postgres.Open(dsn), &gorm.Config{
-		Logger: gormLogger,
+		PrepareStmt: false,
+		Logger:      gormLogger,
 	})
 	if err != nil {
 		logrus.WithError(err).Fatal("❌ Gagal terhubung ke database!")
@@ -62,7 +63,7 @@ func MigrateDB() {
 		&models.JadwalRekomendasi{},
 	)
 	if err != nil {
-		logrus.WithError(err).Fatal("❌ Gagal melakukan migrasi database!")
+		logrus.WithError(err).Error("❌ Gagal melakukan migrasi database!")
 	}
 
 	logrus.Info("✅ Database berhasil dimigrasi!")

@@ -1,182 +1,86 @@
 {
     "kuliah + organisasi_21-30 Juz":{
-        "bada shubuh, bada maghrib, bada isya":0.9752549805,
-        "bada shubuh, bada isya":1.0,
-        "bada shubuh, bada maghrib, bada isya, sebelum tidur":1.1725119134,
-        "bada shubuh, bada isya, sebelum tidur":0.0701107011,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib, bada isya":4.1189017578,
+        "bada shubuh, bada isya":1.6393442623,
+        "bada shubuh, bada maghrib, bada isya, sebelum tidur":5.6229063426,
+        "bada shubuh, bada isya, sebelum tidur":0.6092336982,
+        "bada shubuh, bada maghrib":1.3956639566
     },
     "kuliah_21-30 Juz":{
-        "bada shubuh, bada maghrib, bada isya":1.5359415888,
-        "bada shubuh, bada isya":1.4736842105,
-        "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.9599262436,
-        "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib, bada isya":3.7361050569,
+        "bada shubuh, bada isya":4.1242923486,
+        "bada shubuh, bada maghrib, bada isya, sebelum tidur":4.3097765608,
+        "bada shubuh, bada isya, sebelum tidur":5.5555555556,
+        "bada shubuh, bada maghrib":1.5102606048
     },
     "kuliah_1-10 Juz":{
-        "bada shubuh, bada maghrib, bada isya":0.7979885494,
-        "bada shubuh, bada isya":1.0921036085,
+        "bada shubuh, bada maghrib, bada isya":2.5573912421,
+        "bada shubuh, bada isya":5.0243931382,
         "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada isya, sebelum tidur":1.5263157895,
-        "bada shubuh, bada maghrib":0.4736842105,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada isya, sebelum tidur":7.3770491803,
+        "bada shubuh, bada maghrib":1.1102437332
     },
     "kuliah + organisasi_1-10 Juz":{
         "bada shubuh, bada maghrib, bada isya":0.0,
-        "bada shubuh, bada isya":0.8824923109,
+        "bada shubuh, bada isya":4.5895958908,
         "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
         "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib":2.7777777778
     },
     "kuliah + organisasi_11-20 Juz":{
-        "bada shubuh, bada maghrib, bada isya":1.36900369,
-        "bada shubuh, bada isya":0.8834252391,
+        "bada shubuh, bada maghrib, bada isya":5.8672086721,
+        "bada shubuh, bada isya":3.1046819024,
         "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
         "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":1.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib":5.0
     },
     "kuliah_11-20 Juz":{
-        "bada shubuh, bada maghrib, bada isya":0.9807867412,
-        "bada shubuh, bada isya":1.4148953547,
-        "bada shubuh, bada maghrib, bada isya, sebelum tidur":1.0,
-        "bada shubuh, bada isya, sebelum tidur":1.2355335853,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":1.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib, bada isya":4.577276127,
+        "bada shubuh, bada isya":2.5208382601,
+        "bada shubuh, bada maghrib, bada isya, sebelum tidur":5.0,
+        "bada shubuh, bada isya, sebelum tidur":4.4425098395,
+        "bada shubuh, bada maghrib":5.0
     },
     "kuliah + kerja_21-30 Juz":{
-        "bada shubuh, bada maghrib, bada isya":0.9473684211,
-        "bada shubuh, bada isya":2.0,
+        "bada shubuh, bada maghrib, bada isya":0.0,
+        "bada shubuh, bada isya":7.7777777778,
         "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
         "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib":0.0
     },
     "kerja_21-30 Juz":{
-        "bada shubuh, bada maghrib, bada isya":1.8397841323,
+        "bada shubuh, bada maghrib, bada isya":6.6124661247,
         "bada shubuh, bada isya":0.0,
         "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
         "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib":0.0
     },
     "kerja_1-10 Juz":{
         "bada shubuh, bada maghrib, bada isya":0.0,
-        "bada shubuh, bada isya":0.0,
+        "bada shubuh, bada isya":2.7100271003,
         "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
         "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
-    },
-    "kuliah + magang_21-30 Juz":{
-        "bada shubuh, bada maghrib, bada isya":0.5263157895,
-        "bada shubuh, bada isya":0.0,
-        "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
-    },
-    "kuliah + magang_11-20 Juz":{
-        "bada shubuh, bada maghrib, bada isya":0.0,
-        "bada shubuh, bada isya":1.0,
-        "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib":0.0
     },
     "kuliah + kerja_11-20 Juz":{
         "bada shubuh, bada maghrib, bada isya":0.0,
-        "bada shubuh, bada isya":1.0,
+        "bada shubuh, bada isya":5.0,
         "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
         "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":1.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib":0.0
     },
     "kuliah + kerja_1-10 Juz":{
         "bada shubuh, bada maghrib, bada isya":0.0,
-        "bada shubuh, bada isya":0.0,
+        "bada shubuh, bada isya":1.3114754098,
         "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
         "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":1.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib":0.0
     },
     "kerja_11-20 Juz":{
         "bada shubuh, bada maghrib, bada isya":0.0,
         "bada shubuh, bada isya":0.0,
         "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
         "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
-    },
-    "Kuliah + ngajar privat_11-20 Juz":{
-        "bada shubuh, bada maghrib, bada isya":1.0,
-        "bada shubuh, bada isya":0.0,
-        "bada shubuh, bada maghrib, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada isya, sebelum tidur":0.0,
-        "bada shubuh, bada maghrib":0.0,
-        "bada maghrib":0.0,
-        "bada dhuhur, bada ashar, bada maghrib":0.0,
-        "bada maghrib, bada isya":0.0,
-        "bada shubuh, bada dhuhur, bada maghribn":0.0,
-        "bada isya":0.0
+        "bada shubuh, bada maghrib":0.0
     }
 }

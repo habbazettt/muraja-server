@@ -103,6 +103,7 @@ func (s *AuthService) Login(c *fiber.Ctx) error {
 		},
 	})
 }
+
 func (s *AuthService) ForgotPassword(c *fiber.Ctx) error {
 	var req dto.ForgotPasswordRequest
 
